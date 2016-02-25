@@ -1,0 +1,27 @@
+{
+  "name": "assortment",
+  "version": "0.1.0-beta.0",
+  "description": "A delightful assortment of useful utilities",
+  "license": "MIT",
+
+  "author": {
+    "name": "denim2x",
+    "email": "denim2x@cyberdude.com",
+    "url": "http://denim2x.github.io"
+  },
+  "keywords": [
+    "utility",
+    "utilities",
+    "library",
+    "support library",
+    "helper library",
+    "helper",
+    "helpers",
+    "merge sort",
+    "merge-sort",
+    "semver"
+  ],
+
+  "main": "lib/core",
+  "repository": "https://github.com/denim2x/assortment"
+}
